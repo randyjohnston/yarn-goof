@@ -5,6 +5,6 @@
   "license": "MIT",
   "dependencies": {
     "@fancyapps/fancybox": "https://github.com/randyjohnston/fancybox",
-    "passport": "0.4.1"
+    "passport": "0.6.0"
   }
 }
