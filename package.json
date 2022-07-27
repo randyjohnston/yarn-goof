@@ -1,0 +1,10 @@
+{
+  "name": "yarn-goof",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@fancyapps/fancybox": "https://github.com/fancyapps/fancybox",
+    "passport": "0.4.1"
+  }
+}
