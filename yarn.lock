@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@fancyapps/fancybox@git+ssh://git@github.com:fancyapps/fancybox":
+  version "3.5.7"
+  uid c4fd90370f8c93336d6e36a5c6120bcabcf8675c
+  resolved "git+ssh://git@github.com:fancyapps/fancybox#c4fd90370f8c93336d6e36a5c6120bcabcf8675c"
+
 "@fancyapps/fancybox@https://github.com/fancyapps/fancybox":
   version "3.5.7"
   resolved "https://github.com/fancyapps/fancybox#c4fd90370f8c93336d6e36a5c6120bcabcf8675c"
