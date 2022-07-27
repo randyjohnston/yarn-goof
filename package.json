@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@fancyapps/fancybox": "git+ssh://git@github.com:fancyapps/fancybox",
+    "@fancyapps/fancybox": "https://github.com/randyjohnston/fancybox",
     "passport": "0.4.1"
   }
 }
